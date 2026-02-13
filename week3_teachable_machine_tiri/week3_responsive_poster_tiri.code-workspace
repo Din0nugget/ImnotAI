@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../week3_responsive_poster_tiri"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../week3_sound_detection_tiri"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week3_teachable_machine_tiri"
+	}
+}
